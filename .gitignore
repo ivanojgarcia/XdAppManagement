@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Hardhat cache and artifacts
+cache/
+artifacts/
+
+# Hardhat config logs
+hardhat.log
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
+
+# Debug log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Operating system files
+.DS_Store
+Thumbs.db
